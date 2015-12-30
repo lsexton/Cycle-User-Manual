@@ -11,4 +11,5 @@
        * [Step Definitions](step_definitions.md)
        * [Waiting Steps](waiting_steps.md)
        * [Keyboard Steps and Shortcuts](keyboard_steps_and_shortcuts.md)
+       * Comments
 
