@@ -9,5 +9,5 @@
    * [Scenarios](scenarios.md)
    * [Steps](steps.md)
        * [Step Definitions](step_definitions.md)
-       * Waiting Steps
+       * [Waiting Steps](waiting_steps.md)
 
