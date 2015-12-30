@@ -6,3 +6,8 @@ Feature Files are the highest level grouping of test Scenarios and are used to g
 
 ***Figure 1B:***
 ![](figure1b.jpg)
+
+Feature Files have a single “Feature” defined in them, but can have as many Scenarios as is applicable. Cycle has syntax highlighting to help users draw distinctions between Cycle keywords and other important parts of the Feature File.
+
+Examples of Cycle’s currently defined keywords are: **Feature, Background, Scenario, Scenario Outline, Examples, Given, And, When, Then, If, EndIf, Else, ElsIf, While, and EndWhile.**
+
