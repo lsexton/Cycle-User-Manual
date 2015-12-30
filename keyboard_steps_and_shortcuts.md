@@ -7,3 +7,5 @@ The Windows operating system contains many keyboard shortcuts to allow actions t
 ***Figure 1E:***
 
 ![](figure1e.png)
+
+The website http://windows.microsoft.com/en-us/windows/keyboard-shortcuts contains a complete list of the Windows keyboard shortcuts.
