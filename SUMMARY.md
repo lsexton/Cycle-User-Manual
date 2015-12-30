@@ -3,5 +3,5 @@
 * [Overview](README.md)
    * [Benefits](benefits.md)
    * [System Requirements](system_requirements.md)
-* [Chapter 1](chapter1.md)
+* [Chapter 1 - Cycle Scripts](chapter1.md)
 
