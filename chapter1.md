@@ -1,3 +1,3 @@
-# First Chapter
+# Chapter 1 - Cycle Scripts
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+Cycle test scripts are written in a business readable, domain-specific language that is inspired by the open source Gherkin language syntax, and is designed to promote behavior-driven development. Gherkin was designed to allow non-technical personnel to write test scripts without involving technical knowledge. 
