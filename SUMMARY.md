@@ -1,6 +1,6 @@
 # Summary
 
 * [Overview](README.md)
-   * Benefits
+   * [Benefits](benefits.md)
 * [Chapter 1](chapter1.md)
 
