@@ -6,4 +6,3 @@ Automated scripts in Cycle are comprised of three elements: Features, Scenarios 
 ***Figure 1A:***
 
 ![](figure1a.jpg)
-
